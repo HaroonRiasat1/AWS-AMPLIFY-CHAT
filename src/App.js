@@ -35,7 +35,7 @@ function App() {
 
     return (
       <div style={container}>
-        <h1 style={heading}>Real Time Message Board</h1>
+        <h1 style={heading}>Real Time Message Board by Haroon Riasat</h1>
         <Input
           onChange={onChange}
           name='title'
